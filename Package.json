@@ -1,0 +1,19 @@
+}
+{
+  "name": "winZz-md",
+  "version": "1.2.0",
+  "description": "VAMPIRE MD WhatsApp Bot (full features)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "@Asiyah_gmoy",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.6.8",
+    "fs-extra": "^11.2.0",
+    "chalk": "^4.1.2",
+    "form-data": "^4.0.0"
+  }
+}
